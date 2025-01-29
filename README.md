@@ -12,7 +12,7 @@
 
 [![Devgeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgeon&hide=stars&count_private=true&show_icons=true&theme=github_dark)](https://github.com/devgeon) 
 
-[![Devgeon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgeon&langs_count=4&theme=github_dark&layout=compact)](https://github.com/devgeon) 
+[![Devgeon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgeon&langs_count=5&hide=Vue,SCSS&theme=github_dark&layout=compact&card_width=350)](https://github.com/devgeon) 
 
 [![Devgeon's Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=devgeon)](https://solved.ac/devgeon) 
 
